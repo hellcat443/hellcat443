@@ -45,5 +45,6 @@
     > db-services      # MySQL-driven backend systems
 
 ------------------------------------------------------------------------
+<p align="center"> <img src="https://img.shields.io/badge/Access_Granted-00FF00?style=for-the-badge&logo=matrix" /> </p>
 
     > logout
