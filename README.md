@@ -19,6 +19,7 @@
 
 🛠️ Tech Arsenal
 
+<p> <img src="https://skillicons.dev/icons?i=go,php,mysql,linux,docker,git,redis,nginx" /> </p>
 ------------------------------------------------------------------------
 
 🧪 Terminal Preview
@@ -33,6 +34,7 @@
 
 ⚡ GitHub Intelligence
 
+<p align="center"> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=hellcat443&theme=matrix&hide_border=true" /> </p> <p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=hellcat443&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" /> </p>
 ------------------------------------------------------------------------
 
 🧩 Operations & Projects
